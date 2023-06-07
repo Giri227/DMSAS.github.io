@@ -1,0 +1,151 @@
+ .u-section-1 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.55), rgba(0,0,0,0.55)), url("images/wp2968531-medical-doctor-wallpaper-hd.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 800px;
+}
+
+.u-section-1 .u-btn-1 {
+  background-image: linear-gradient(#478ac9, #4c7397);
+  border-style: none;
+  font-weight: 700;
+  text-transform: uppercase;
+  font-size: 0.875rem;
+  --animation-custom_in-translate_x: 0px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 0deg;
+  --animation-custom_in-scale: 0.3;
+  margin: 29px auto 0 -90px;
+  padding: 6px 20px 7px;
+}
+
+.u-section-1 .u-icon-1 {
+  font-size: 1.5em;
+}
+
+.u-section-1 .u-btn-2 {
+  border-style: solid;
+  font-weight: 700;
+  font-size: 0.9375rem;
+  background-image: none;
+  margin: -39px 197px 0 auto;
+  padding: 6px 31px 6px 30px;
+}
+
+.u-section-1 .u-btn-3 {
+  border-style: solid;
+  font-weight: 700;
+  font-size: 0.9375rem;
+  background-image: none;
+  margin: -39px 74px 0 auto;
+  padding: 6px 31px 6px 30px;
+}
+
+.u-section-1 .u-btn-4 {
+  border-style: solid;
+  font-weight: 700;
+  font-size: 0.9375rem;
+  background-image: none;
+  margin: -39px -62px 0 auto;
+  padding: 6px 31px 6px 30px;
+}
+
+.u-section-1 .u-text-1 {
+  font-size: 3rem;
+  font-weight: 700;
+  font-style: italic;
+  margin: 244px 273px 0 303px;
+}
+
+.u-section-1 .u-btn-5 {
+  border-style: none;
+  text-transform: uppercase;
+  font-size: 0.875rem;
+  letter-spacing: 2px;
+  background-image: none;
+  font-weight: normal;
+  margin: 76px auto 60px 428px;
+  padding: 11px 47px 11px 45px;
+}
+
+.u-section-1 .u-icon-2 {
+  font-size: 1.3em;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 660px;
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-btn-2 {
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-btn-3 {
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-btn-4 {
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-text-1 {
+    width: 565px;
+    margin-left: 203px;
+    margin-right: 173px;
+  }
+
+  .u-section-1 .u-btn-5 {
+    margin-left: 228px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 506px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-left: 93px;
+    margin-right: 63px;
+  }
+
+  .u-section-1 .u-btn-5 {
+    margin-left: 8px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 380px;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 6rem;
+    width: 540px;
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-btn-5 {
+    margin-left: 0;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 239px;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 3.75rem;
+    width: 340px;
+  }
+}
